@@ -1,0 +1,11 @@
+nrObjectives = 1
+nrFacilities = 8
+nrOverlap = 4
+nrMatrices = 20
+zeros = 0.5
+distrLow = 0.5
+(l,L)	1	20
+(m,M)	21	39
+(h,H)	80	99
+nrInstances = 10
+homeDir= /home/madalina/QAPgenerator/
